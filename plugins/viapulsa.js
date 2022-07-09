@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
-╠═ Untuk Pembayaran Via Pulsa
+╠═ Untuk Pembayaran Via Pulsa (Telkom)
 ╠➥ Ke nomer ini
-║➥ 085730903853
+║➥ 081317549796
 ║
 ╠═〘 Fitur 〙 ═
 ║

@@ -1,18 +1,15 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fetch(image + 'donasi')).buffer(), `
 ╭──『 _*Donasi*_ 』──⬣
-│⬡ *_Dana/Gopay_* :
-│⬡ *088233832771*
+│⬡ Dana : *081317549796*
+│⬡ Gopay : *081317549796*
 │
 │⬡ *_Pulsa_* :
-│⬡ *089612698583*
-│⬡ *088233832771*
+│⬡ Telkomsel : *081317549796*
 ╰─────────⬣
 ╭─「 *NOTE* 」
 │ > Owner? wa.me/6288233832771
-│ _Hasil donasi akan digunakan buat sewa_
-│ _atau beli *RDP/VPS* agar bot bisa jalan_
-│ _24jam tanpa kendala_
+│ _Hasil donasi akan digunakan buat keperluan bot_
 ╰──────────⬣
 `.trim(), footer, 'Owner', '.owner')
 handler.help = ['donasi']

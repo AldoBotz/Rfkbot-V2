@@ -11,17 +11,18 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Pulsa (ISAT): 085730903853 (+5.000)
-Gopay: 085730903853
+Pulsa (Telkom): 081317549796 (+2k)
+Gopay: 081317549796
+Dana: 081317549796
 `.trim()
     const button = {
         buttonText: 'List Harga',
         description: kamisato,
         sections:  [{title: "Silahkan di pilih", rows: [
-        {title: '2 Bulan', description: "Rp30.000\nSewa bot tanpa batasan waktu.", rowId:".masuk"},
-        {title: '1 Bulan', description: "Rp20.000\nSewa bot selama 1 bulan.", rowId:".masuk"},
-        {title: '1 Minggu', description: "Rp15.000\nSewa bot selama 1 minggu.", rowId:".masuk"},
-        {title: '3 hari', description: "Rp5.000\nSewa bot selama 3 hari.", rowId:".masuk"},
+        {title: '1 Minggu', description: "Rp5.000\nSewa bot selama 1 minggu", rowId:".masuk"},
+        {title: '1 Bulan', description: "Rp8.000\nSewa bot selama 1 bulan.", rowId:".masuk"},
+        {title: 'Permanen', description: "Rp12.000\nSewa bot permanen", rowId:".masuk"},
+        {title: 'Premium', description: "Rp2.000\nBeli premium permanen", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
         {title: 'Rules', description: "Kebijakan Privasi, Syarat Ketentuan dan Peraturan.", rowId:".rules"},
        ] }],
