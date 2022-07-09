@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau'
-gc2 = 'https://chat.whatsapp.com/HjRHck1G3WRHOx97fJkdMN'
-gc3 = 'https://chat.whatsapp.com/HcGcIB09sIvKrGytO8yfFn'
-global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
-global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+gc1 = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
+gc2 = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
+gc3 = 'https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
+global.linkGC = ['https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d', ''] // ganti jadi group lu
+global.owner = ['6281317549796','6281564663825'] // Put your number here //owner eval
+global.kontak = ['6281317549796'] //Ketika ada yang ngetik #owner
+global.mods = ['6281564663825','6281317549796'] // Want some help?
+global.prems = ['6281317549796','6281564663825'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -46,39 +46,39 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
-namaig = 'mursid.st'
-namagithub = 'Botwa021'
-kasihcaption = `Instagram.com/mursid.st`
-namakontak1 = '𝙼𝚞𝚛𝚜𝚒𝚍 𝙱𝙾𝚃'
-namakontak2 = '𝙼𝚞𝚛𝚜𝚒𝚍'
+namaig = '-'
+namagithub = 'RexxinOfficial'
+kasihcaption = `github.com/RexxinOfficial
+namakontak1 = 'Rexxin Official'
+namakontak2 = 'Rexxin Official'
 
 //kasihcaption = `Instagram.com/mursid.st`
 
 // Sticker WM
-global.packname = 'мυяѕι∂' // ganti aja
-global.author = 'ʙᴏᴛ' // ganti aja
+global.packname = '' // ganti aja
+global.author = 'Created By Rexxin' // ganti aja
 
 //yyy
-bc = 'мυяѕι∂' //мυяѕι∂ Broadcast
-footer = `\n© _*MursidBot*_`
-namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+bc = 'Rexxin - MD' //мυяѕι∂ Broadcast
+footer = `\n© _*Rexxin - MD*_`
+namabot = `Rexxin - MD`
+namalu = 'Rexxin Official'
 
 
 // 
 wait = '_*Loading...*_'
 global.wait = '_*Loading...*_'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error kak*_'
 
-global.image = "https://telegra.ph/file/31701c03ffd465963a2cf.jpg"
+global.image = "https://telegra.ph/file/eb55a0d3eb493a4349620.jpg"
 
 // Ubah saja SC dari MursidXzy
-global.image = 'https://telegra.ph/file/31701c03ffd465963a2cf.jpg'//thumbnail
+global.image = 'https://telegra.ph/file/eb55a0d3eb493a4349620.jpg'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
-global.multiplier = 36 // The higher, The harder levelup
+global.multiplier = 69 // The higher, The harder levelup
 
 //*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
