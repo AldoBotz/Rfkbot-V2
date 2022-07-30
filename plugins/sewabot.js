@@ -3,10 +3,9 @@ let { MessageType } = require('@adiwajshing/baileys')
 let handler = async(m, { conn }) => {
     let kamisato = `
 ┌〔 List Berlangganan 〕
-├ 2 Bulan
-├ 1 Bulan
 ├ 1 Minggu
-├ 3 hari
+├ 1 Bulan
+├ Permanent
 └────
 Silahkan klik pada "List Harga" untuk melihat list.
 
